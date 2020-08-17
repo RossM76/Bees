@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bees", "Bees\Bees.csproj", "{35F4385F-A4D2-4104-8C8F-E3FF9DCB21A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeUI", "BeeUI\BeeUI.csproj", "{465D9482-C1E5-450C-9F2D-EB983580B806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F4385F-A4D2-4104-8C8F-E3FF9DCB21A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F4385F-A4D2-4104-8C8F-E3FF9DCB21A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F4385F-A4D2-4104-8C8F-E3FF9DCB21A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F4385F-A4D2-4104-8C8F-E3FF9DCB21A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465D9482-C1E5-450C-9F2D-EB983580B806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465D9482-C1E5-450C-9F2D-EB983580B806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465D9482-C1E5-450C-9F2D-EB983580B806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465D9482-C1E5-450C-9F2D-EB983580B806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B57408-81CE-4342-8F47-ECFD11F45473}
+	EndGlobalSection
+EndGlobal
